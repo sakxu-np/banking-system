@@ -1,0 +1,6 @@
+{
+  "robots": {
+    "disallow": ["/api/"],
+    "crawlDelay": 10
+  }
+}
